@@ -20,3 +20,4 @@
 * Lasso (L1 normalization)
 * Elastic Net (l2 normalization)
 #### Classification models:
+![Screenshot](images/classifier_comparison.png?raw=true "Title")
