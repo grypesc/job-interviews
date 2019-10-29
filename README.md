@@ -1,7 +1,22 @@
-# jobInterviews
+## Python 3:
+#### Data Structures:
+* list
+* tuple
+* dict
+* set  
 
-Python
+#### Key words:
+* map
+* filter
+* reduce
+* enumerate
+* yield
 
-Algorythmics
+## Algorythmics
 
-Data science / machine learning
+## Data science / machine learning
+#### Regression models:
+* Linear Regression
+* Lasso (L1 normalization)
+* Elastic Net (l2 normalization)
+#### Classification models:
