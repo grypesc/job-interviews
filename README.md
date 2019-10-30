@@ -29,7 +29,7 @@
 * mutable/immutable
 * list comprehension 
 * Duck  typing
-* Concurrency
+* Concurrency, GIL
 
 ## Mathematics:
 * Bayes theorem P(A|B) = P(A^B)/P(B)
