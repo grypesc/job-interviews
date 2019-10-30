@@ -29,7 +29,7 @@
 * mutable/immutable
 * list comprehension 
 * Duck  typing
-* Concurrency, GIL
+* Concurrency vs parallelism, GIL, threading vs multiprocessing packages
 
 ## Mathematics:
 * Bayes theorem P(A|B) = P(A^B)/P(B)
