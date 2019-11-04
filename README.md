@@ -1,3 +1,14 @@
+## Job sites
+* nofluffyjobs
+* justjoinit
+* pracuj.pl
+* linkedIn
+
+## General questions
+* Tell me about yourself
+* Why us
+* (Make research about company)
+
 ## OOP
 #### Terms
 * Encapsulation (hiding data implementation by restricting access to public methods)
