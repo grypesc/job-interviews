@@ -25,6 +25,7 @@
 * tuple
 * dict (implemented as hash table)
 * set  (implemented as hash table)
+* collections library
 
 #### Key words:
 * map
@@ -35,6 +36,7 @@
 * enumerate
 * yield
 * lambda
+* any
 
 #### Terms:
 * mutable/immutable
