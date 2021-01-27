@@ -26,6 +26,8 @@
 * dict (implemented as hash table)
 * set  (implemented as hash table)
 * collections library
+* SortedContainers
+* heapq
 
 #### Key words:
 * map
@@ -73,7 +75,7 @@
 * XGBoost
 ![Screenshot](images/classifier_comparison.png?raw=true "Title")
 #### Clustering models: 
-* K means (centroids going to mean, elbow method)
+* K means, medians (elbow method)
 * Hierarchical Aglommerative
 * Graph
 * DBSCAN
