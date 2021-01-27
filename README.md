@@ -62,6 +62,7 @@
 * Linear
   - Lasso (L1 normalization)
   - Elastic Net (L2 normalization)
+  - logistic
 * KNN
 * SVM 
   - Linear SVM (looking for a hyperplane, C and gamma params)
