@@ -48,8 +48,14 @@
 
 ## Mathematics:
 * Bayes theorem P(A|B) = P(A^B)/P(B)
-* Gausian == Normal distribution
 * EX, VX = EX^2-(EX)^2
+#### Distributions:
+* Gausian == Normal distribution
+* Gamma
+* Beta
+* Chi square
+* Student
+* Poison
 
 ## Algorythmics
 #### Graphs:
