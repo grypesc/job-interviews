@@ -75,6 +75,7 @@
 #### Clustering models: 
 * K means (centroids going to mean, elbow method)
 * Hierarchical Aglommerative
+* Graph
 * DBSCAN
 * ROCK
 #### Terms:
