@@ -56,20 +56,27 @@
 * AVL (self-balancing binary search tree)
 
 ## Data science / machine learning
-#### Regression models:
-* Linear Regression
-* Lasso (L1 normalization)
-* Elastic Net (L2 normalization)
-#### Classification models:
-* Linear SVM (looking for a hyperplane, C and gamma params)
-* RBF SVM (Kernel trick to map input space to higher dimension, C, gamma)
-* Naive Bayes
+#### Models:
+* Linear
+  - Lasso (L1 normalization)
+  - Elastic Net (L2 normalization)
+* KNN
+* SVM 
+  - Linear SVM (looking for a hyperplane, C and gamma params)
+  - RBF SVM (Kernel trick to map input space to higher dimension, C, gamma)
+  - Polynomial SVM
+* Bayes
+  - Naive  
+  - AODE  
 * Decision trees
 * Random forest
+* XGBoost
 ![Screenshot](images/classifier_comparison.png?raw=true "Title")
 #### Clustering models: 
 * K means (centroids going to mean, elbow method)
-
+* Hierarchical Aglommerative
+* DBSCAN
+* ROCK
 #### Terms:
 * Bagging vs Boosting
 * K-cross fold validation
@@ -80,3 +87,4 @@
 ## Others
 * Process vs Thread
 * grep/cat/pipe commands
+* Docker
