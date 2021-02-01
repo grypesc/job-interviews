@@ -80,12 +80,14 @@
 * Decision trees
 * Random forest
 * XGBoost
+* Contrast patterns
 ![Screenshot](images/classifier_comparison.png?raw=true "Title")
 #### Clustering models: 
 * K means, medians (elbow method)
 * Hierarchical Aglommerative
 * Graph
 * DBSCAN
+* NBC
 * ROCK
 #### Terms:
 * Bagging vs Boosting
