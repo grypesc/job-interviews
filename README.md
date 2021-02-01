@@ -50,12 +50,13 @@
 * Bayes theorem P(A|B) = P(A^B)/P(B)
 * EX, VX = EX^2-(EX)^2
 #### Distributions:
-* Gausian == Normal distribution
+* Poison
+* Bernoulli
+* Gaussian distribution
 * Gamma
 * Beta
 * Chi square
 * Student
-* Poison
 
 ## Algorythmics
 #### Graphs:
