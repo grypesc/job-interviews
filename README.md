@@ -41,6 +41,7 @@
 * any
 
 #### Terms:
+* init vs new
 * mutable/immutable
 * list comprehension 
 * Duck  typing
@@ -100,4 +101,5 @@
 ## Others
 * Process vs Thread
 * grep/cat/pipe commands
-* Docker
+* Docker vs VM
+* CI/CD
