@@ -84,6 +84,8 @@
 * XGBoost
 * Contrast patterns
 ![Screenshot](images/classifier_comparison.png?raw=true "Title")
+#### Deep learning:
+* SGD vs Adam
 #### Clustering models: 
 * K means, medians (elbow method)
 * Hierarchical Aglommerative
